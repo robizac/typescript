@@ -4,11 +4,6 @@ Praticando typescript
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 
-<p align="center">
-<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
-</p>
-
-![GitHub Org's stars](https://img.shields.io/github/stars/robizac?style=social)
 
 ## Índice 
 
@@ -49,6 +44,7 @@ Praticando typescript
 
 ## Autores
 
-| [<img src="https://avatars.githubusercontent.com/u/60302359?v=4" width=115><br><sub>Roberto</sub>](https://github.com/robizac) |  
-| :---: | :---: | :---: |
+| [<img src="https://avatars.githubusercontent.com/u/60302359?v=4" width=115><br><sub>Roberto</sub>](https://github.com/robizac)
+
+![GitHub Org's stars](https://img.shields.io/github/stars/robizac?style=social)
 
