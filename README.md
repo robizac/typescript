@@ -49,6 +49,6 @@ Praticando typescript
 
 ## Autores
 
-| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Camila Fernanda Alves</sub>](https://github.com/robizac) |  
+| [<img src="https://avatars.githubusercontent.com/u/60302359?v=4" width=115><br><sub>Roberto</sub>](https://github.com/robizac) |  
 | :---: | :---: | :---: |
 
