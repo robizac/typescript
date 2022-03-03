@@ -12,7 +12,7 @@
 * [Nome do Projeto](#nome-do-projeto)
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Status do Projeto](#Badge-em-desenvolvimento)
-* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-do-projeto)
+* [Funcionalidades do Projeto](#funcionalidades-do-projeto)
 * [Acesso ao Projeto](#acesso-ao-projeto)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Abrir e rodar o Projeto](#abrir-e-rodar-o-projeto)
