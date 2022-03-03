@@ -31,19 +31,25 @@
 **Indique como é possível baixar ou acessar o código fonte do projeto, seja projeto inicial ou final**
 
 Clone este repositório
->$ git clone <https://github.com/tgmarinho/nlw1>
-
+```bash
+$ git clone https://github.com/tgmarinho/nlw1
+```
 Acesse a pasta do projeto no terminal/cmd
->$ cd nlw1
-
+```bash
+$ cd nlw1
+```
 Vá para a pasta server
->$ cd server
-
+```bash
+$ cd server
+```
 Instale as dependências
->$ npm install
-
+```bash
+$ npm install
+```
 Execute a aplicação em modo de desenvolvimento
->$ npm run dev:server
+```bash
+$ npm run dev:server
+```
 
 O servidor inciará na porta:3333 - acesse <http://localhost:3333> 
 
